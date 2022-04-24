@@ -32,7 +32,7 @@ const App = () => {
         phrase2="Greetings im"
         name2="Jon"
         phrase3="Welcome im"
-        name3="Kaley"
+        name3="Juice"
       />
       <input onChange={handleUsernameChange} />
       <p>you are logging in as {username}</p>
